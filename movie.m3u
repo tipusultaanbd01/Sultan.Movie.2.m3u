@@ -1,9 +1,4 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment",ROCKSTAR teser
-https://stream.mux.com/VRbigePW8mscL9duqZuBalLhIfoNXJO8FxpqOMpGwyk.m3u8
-
-
-#EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment", zee
-http://30.30.30.30/live/skyfeed1021/index.m3u8
+#EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment",
