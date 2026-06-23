@@ -1,109 +1,150 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FOOTBALL | SKY SPORTS ᴴᴰ" tvg-id="skysportsfootball.uk" tvg-logo="https://i.ibb.co/HTJV8tQS/Sky-Sports.png" group-title="FOOTBALL ⚽",FOOTBALL | SKY SPORTS ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/100481.ts
-#EXTINF:-1 tvg-name="FOOTBALL | SKY SPORTS ⁴ᵏ" tvg-id="skysportsfootball.uk" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="FOOTBALL ⚽",FOOTBALL | SKY SPORTS ⁴ᵏ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/100482.ts
-#EXTINF:-1 tvg-name="FOOTBALL | SKY SPORTS PREMIER 'ᴴᴰ" tvg-id="skysportspremiereleague.uk" tvg-logo="https://i.ibb.co/hJz9zYr5/Sky-Sports-Premier.png" group-title="FOOTBALL ⚽",FOOTBALL | SKY SPORTS PREMIER 'ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/100489.ts
-#EXTINF:-1 tvg-name="FOOTBALL | SKY SPORTS PREMIER ⁴ᵏ" tvg-id="skysportspremiereleague.uk" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="FOOTBALL ⚽",FOOTBALL | SKY SPORTS PREMIER ⁴ᵏ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/125642.ts
-#EXTINF:-1 tvg-name="FOOTBALL | TNT SPORTS ᴴᴰ" tvg-id="tnt.us" tvg-logo="https://i.ibb.co/XkK5vQ98/TNT-Sports.png" group-title="FOOTBALL ⚽",FOOTBALL | TNT SPORTS ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/230392.ts
-#EXTINF:-1 tvg-name="FOOTBALL | TNT PREMIUM ᴴᴰ" tvg-id="TNTSportsUltimate.uk" tvg-logo="https://i.ibb.co/8nmhSD21/TNT-Premium.png" group-title="FOOTBALL ⚽",FOOTBALL | TNT PREMIUM ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/292234.ts
-#EXTINF:-1 tvg-name="FOOTBALL | BEIN SPORTS 1 ENGLISH ᴴᴰ" tvg-id="beinsports1en.qa" tvg-logo="https://i.ibb.co/RpV3GLys/Bein-Sports-1-English.png" group-title="FOOTBALL ⚽",FOOTBALL | BEIN SPORTS 1 ENGLISH ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/100492.ts
-#EXTINF:-1 tvg-name="FOOTBALL | BEIN SPORTS 1 ENGLISH ⁴ᵏ" tvg-id="beinsports1en.qa" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="FOOTBALL ⚽",FOOTBALL | BEIN SPORTS 1 ENGLISH ⁴ᵏ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/249894.ts
-#EXTINF:-1 tvg-name="FOOTBALL | BEIN SPORTS 1 'ᴴᴰ" tvg-id="beinsports1en.qa" tvg-logo="https://i.ibb.co/0ymdSb3T/Bein-Sports-1.png" group-title="FOOTBALL ⚽",FOOTBALL | BEIN SPORTS 1 'ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/100494.ts
-#EXTINF:-1 tvg-name="FOOTBALL | BEIN SPORTS 1  ⁴ᵏ" tvg-id="beinsports1.qa" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="FOOTBALL ⚽",FOOTBALL | BEIN SPORTS 1  ⁴ᵏ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/100491.ts
-#EXTINF:-1 tvg-name="FOOTBALL | BEIN SPORTS 2 ᴴᴰ" tvg-id="beinsports2.qa" tvg-logo="https://i.ibb.co/CK2PhLSk/Bein-Sports-2.png" group-title="FOOTBALL ⚽",FOOTBALL | BEIN SPORTS 2 ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/100496.ts
-#EXTINF:-1 tvg-name="FOOTBALL | US BEIN SPORTS ᴴᴰ" tvg-id="beinsports.us" tvg-logo="https://i.ibb.co/CK3Nh2LG/USbein-Sports.png" group-title="FOOTBALL ⚽",FOOTBALL | US BEIN SPORTS ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/230383.ts
-#EXTINF:-1 tvg-name="FOOTBALL | SUPERSPORTS PREMIER LEAGUE ᴴᴰ'" tvg-id="supersportpremierleague.za" tvg-logo="https://i.ibb.co/prPJLJfT/Supersport-Premier-League.png" group-title="FOOTBALL ⚽",FOOTBALL | SUPERSPORTS PREMIER LEAGUE ᴴᴰ'
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/230384.ts
-#EXTINF:-1 tvg-name="FOOTBALL | SUPERSPORTS ᴴᴰ" tvg-id="supersportpremierleague.za" tvg-logo="https://i.ibb.co/SwvPWGQH/Supersport-Foot-Ball.png" group-title="FOOTBALL ⚽",FOOTBALL | SUPERSPORTS ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/100483.ts
-#EXTINF:-1 tvg-name="FOOTBALL | SUPERSPORTS ⁴ᵏ" tvg-id="supersportpremierleague.za" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="FOOTBALL ⚽",FOOTBALL | SUPERSPORTS ⁴ᵏ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/100484.ts
-#EXTINF:-1 tvg-name="FOOTBALL | SUPERSPORTS 2 ᴴᴰ" tvg-id="skysportsfootball.uk" tvg-logo="https://i.ibb.co/XfkvBn8x/Supersport-2.png" group-title="FOOTBALL ⚽",FOOTBALL | SUPERSPORTS 2 ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/125634.ts
-#EXTINF:-1 tvg-name="FOOTBALL | SS PSL ᴴᴰ" tvg-id="SuperSport PSL" tvg-logo="https://i.ibb.co/Df1PQnqy/Supersport-PSL.png" group-title="FOOTBALL ⚽",FOOTBALL | SS PSL ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/230386.ts
-#EXTINF:-1 tvg-name="FOOTBALL | SS LALIGA ᴴᴰ" tvg-id="skysportsfootball.uk" tvg-logo="https://i.ibb.co/GfbCxZYH/Super-Sport-La-Liga.png" group-title="FOOTBALL ⚽",FOOTBALL | SS LALIGA ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/125633.ts
-#EXTINF:-1 tvg-name="FOOTBALL | SS FOOTBALL PLUS ᴴᴰ" tvg-logo="https://i.ibb.co/fzR67xTb/SS-FOOTBALL-PLUS.png" group-title="FOOTBALL ⚽",FOOTBALL | SS FOOTBALL PLUS ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/100485.ts
-#EXTINF:-1 tvg-name="FOOTBALL | SS GRANDSTAND ᴴᴰ" tvg-id="skysportsfootball.uk" tvg-logo="https://i.ibb.co/4nrJ64ZB/SS-Grandstand.png" group-title="FOOTBALL ⚽",FOOTBALL | SS GRANDSTAND ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/230389.ts
-#EXTINF:-1 tvg-name="FOOTBALL | ASTRO FOOTBALL ᴴᴰ" tvg-logo="https://i.ibb.co/Pzf4x7SF/Astro-Football.png" group-title="FOOTBALL ⚽",FOOTBALL | ASTRO FOOTBALL ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/230388.ts
-#EXTINF:-1 tvg-name="FOOTBALL | UK PREMIER SPORTS 1 ᴴᴰ" tvg-id="premiersports2.uk" tvg-logo="https://i.ibb.co/35jRcrKM/UK-PREMIER-SPORTS-1.png" group-title="FOOTBALL ⚽",FOOTBALL | UK PREMIER SPORTS 1 ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/230393.ts
-#EXTINF:-1 tvg-name="FOOTBALL | UK PREMIER SPORTS 2 ᴴᴰ" tvg-id="PremierSports2.uk" tvg-logo="https://i.ibb.co/JFCbsB3g/UK-PREMIER-SPORTS-2.png" group-title="FOOTBALL ⚽",FOOTBALL | UK PREMIER SPORTS 2 ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/230394.ts
-#EXTINF:-1 tvg-name="FOOTBALL | THMANYAH SPORT ᴴᴰ" tvg-id="skysportsfootball.uk" tvg-logo="https://i.ibb.co/prKCBhJX/THMANYAH-SPORTS.png" group-title="FOOTBALL ⚽",FOOTBALL | THMANYAH SPORT ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/100505.ts
-#EXTINF:-1 tvg-name="FOOTBALL | MUTV ᴴᴰ" tvg-id="MUTV.uk" tvg-logo="https://i.ibb.co/4npqzdBr/MUTV.png" group-title="FOOTBALL ⚽",FOOTBALL | MUTV ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/230385.ts
-#EXTINF:-1 tvg-name="FOOTBALL | TSN 4 ᴴᴰ" tvg-id="tsn4.ca" tvg-logo="https://i.ibb.co/SD3GjFLH/TSN4.png" group-title="FOOTBALL ⚽",FOOTBALL | TSN 4 ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/125637.ts
-#EXTINF:-1 tvg-name="FOOTBALL | EUROSPORT 2 ᴴᴰ" tvg-id="Eurosport3.uk" tvg-logo="https://i.ibb.co/dz5ZB0G/Eurosports-2.png" group-title="FOOTBALL ⚽",FOOTBALL | EUROSPORT 2 ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/230387.ts
-#EXTINF:-1 tvg-name="FOOTBALL | LFC ᴴᴰ" tvg-id="LFCTV.uk" tvg-logo="https://i.ibb.co/rKTK09F8/LFC.png" group-title="FOOTBALL ⚽",FOOTBALL | LFC ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/230395.ts
-#EXTINF:-1 tvg-name="FOOTBALL | CNBC' ᴴᴰ" tvg-id="cnbc.us" tvg-logo="https://i.ibb.co/fGmfxV2/download-16-3.png" group-title="FOOTBALL ⚽",FOOTBALL | CNBC' ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/100487.ts
-#EXTINF:-1 tvg-name="FOOTBALL | MOVISTAR+" tvg-logo="https://i.ibb.co/1JQr0JT4/Movistar.png" group-title="FOOTBALL ⚽",FOOTBALL | MOVISTAR+
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/230382.ts
-#EXTINF:-1 tvg-name="FOOTBALL | SONY SPORTS 2 ᴴᴰ" tvg-id="sonyten2hd.in" tvg-logo="https://i.ibb.co/gnNPjYb/9c0fc822845789953d3be9c29bb6f0cd.png" group-title="FOOTBALL ⚽",FOOTBALL | SONY SPORTS 2 ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/125640.ts
-#EXTINF:-1 tvg-name="FOOTBALL | SONY SPORTS 2 ⁴ᵏ" tvg-id="sonyten2hd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="FOOTBALL ⚽",FOOTBALL | SONY SPORTS 2 ⁴ᵏ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/125641.ts
-#EXTINF:-1 tvg-name="FOOTBALL | SONY SPORTS 5 ᴴᴰ" tvg-id="SONYSPORTSTEN5.in" tvg-logo="https://i.ibb.co/20G14n15/7d0d368840908947f0e3bb344c29c53f.png" group-title="FOOTBALL ⚽",FOOTBALL | SONY SPORTS 5 ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/125639.ts
-#EXTINF:-1 tvg-name="FOOTBALL | SONY SPORTS ᴴᴰ (Hindi)" tvg-id="SONYSPORTSTEN5.in" tvg-logo="https://i.ibb.co/RTgZ5MS6/Sony-Sports-Ten-1.png" group-title="FOOTBALL ⚽",FOOTBALL | SONY SPORTS ᴴᴰ (Hindi)
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/125636.ts
-#EXTINF:-1 tvg-name="CRIC || SUPERSPORTS ᴴᴰ" tvg-id="supersportcricket.za" tvg-logo="https://i.ibb.co/DPDZDDgg/Supersports-cricket.png" group-title="CRICKET ",CRIC || SUPERSPORTS ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/140290.ts
-#EXTINF:-1 tvg-name="CRIC || SUPERSPORTS ⁴ᵏ" tvg-id="supersportcricket.za" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET ",CRIC || SUPERSPORTS ⁴ᵏ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/292835.ts
-#EXTINF:-1 tvg-name="CRIC || ASTRO CRICKET ᴴᴰ" tvg-id="AstroCricket.my" tvg-logo="https://i.ibb.co/MyRnhfyH/Astro-Cricket.png" group-title="CRICKET ",CRIC || ASTRO CRICKET ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/103210.ts
-#EXTINF:-1 tvg-name="CRIC || ASTRO CRICKET ⁴ᵏ" tvg-id="AstroCricket.my" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET ",CRIC || ASTRO CRICKET ⁴ᵏ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/292836.ts
-#EXTINF:-1 tvg-name="CRIC || FOX CRIC 501 ᴴᴰ" tvg-id="foxsports501hd.au" tvg-logo="https://i.ibb.co/hfHNKGt/download-2.png" group-title="CRICKET ",CRIC || FOX CRIC 501 ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/97630.ts
-#EXTINF:-1 tvg-name="CRIC || FOX CRIC 501 ᶠᴴᴰ" tvg-id="foxsports501hd.au" tvg-logo="https://i.ibb.co/hfHNKGt/download-2.png" group-title="CRICKET ",CRIC || FOX CRIC 501 ᶠᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/292834.ts
-#EXTINF:-1 tvg-name="CRIC || FOX CRIC 501 ⁴ᵏ" tvg-id="foxsports501hd.au" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET ",CRIC || FOX CRIC 501 ⁴ᵏ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/279020.ts
-#EXTINF:-1 tvg-name="CRIC || WILLOW CRICBUZZ ᴴᴰ" tvg-id="andtvhd.in" tvg-logo="https://i.ibb.co/DD6VYfnr/Willow-Cricbuzz.png" group-title="CRICKET ",CRIC || WILLOW CRICBUZZ ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/97040.ts
-#EXTINF:-1 tvg-name="CRIC || WILLOW 2 CRICBUZZ ᴴᴰ" tvg-id="willowxtra.us" tvg-logo="https://i.ibb.co/ynhc0BfX/Willow2-Crizbuzz.png" group-title="CRICKET ",CRIC || WILLOW 2 CRICBUZZ ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/140150.ts
-#EXTINF:-1 tvg-name="CRIC || WILLOW SPORTS ᴴᴰ" tvg-id="mtvhdplus.in" tvg-logo="https://i.ibb.co/LdNyfv1f/Willow-Sports.png" group-title="CRICKET ",CRIC || WILLOW SPORTS ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/140151.ts
-#EXTINF:-1 tvg-name="CRIC || SKY SPORTS CRIC ᴴᴰ" tvg-id="skysportscricket.uk" tvg-logo="https://i.ibb.co/JC19xwB/download-3-1.png" group-title="CRICKET ",CRIC || SKY SPORTS CRIC ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/140155.ts
-#EXTINF:-1 tvg-name="CRIC || SKY SPORTS CRIC ᶠᴴᴰ" tvg-id="skysportscricket.uk" tvg-logo="https://i.ibb.co/JC19xwB/download-3-1.png" group-title="CRICKET ",CRIC || SKY SPORTS CRIC ᶠᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/292837.ts
-#EXTINF:-1 tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-id="skysportscricket.uk" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET ",CRIC || SKY SPORTS CRIC ⁴ᵏ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/70130.ts
-#EXTINF:-1 tvg-name="CRIC || SKY SPORTS MIX ᴴᴰ" tvg-id="BBCOne.uk" tvg-logo="https://i.ibb.co/JkhXm3S/download-8.png" group-title="CRICKET ",CRIC || SKY SPORTS MIX ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/146519.ts
-#EXTINF:-1 tvg-name="CRIC || SKY SPORTS MIX ⁴ᵏ" tvg-id="BBCOne.uk" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET ",CRIC || SKY SPORTS MIX ⁴ᵏ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/233495.ts
-#EXTINF:-1 tvg-name="CRIC || STARZPLAY SPORTS 1 ᴴᴰ" tvg-logo="https://i.ibb.co/FkpKL82/download-4.png" group-title="CRICKET ",CRIC || STARZPLAY SPORTS 1 ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/140871.ts
-#EXTINF:-1 tvg-name="CRIC || STARZPLAY SPORTS 2 ᴴᴰ" tvg-logo="https://i.ibb.co/FkpKL82/download-4.png" group-title="CRICKET ",CRIC || STARZPLAY SPORTS 2 ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/95584.ts
-#EXTINF:-1 tvg-name="CRIC || TEN SPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/CHh0Tb9/afaqs-import-all-news-images-news-story-grfx-2015-44872-1-home-big.png" group-title="CRICKET ",CRIC || TEN SPORTS ᴴᴰ
-http://khanmalik.io:8080/live/Khemprakash/skyplay2421/140293.ts
-#EXTINF:-1 tvg-name="CRIC || TEN SPORTS ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET ",CRIC || TEN SPORTS ⁴ᵏ
+
+#=================================
+
+🖥️ Developed by: Monirul Islam
+🔗 Telegram: https://t.me/monirul_Islam_SM
+🕒 Last Updated: 2026-06-10 17:38:24 (BD Time)
+📺 Channels Count: 20+
+🔒 Usage: Personal / Educational
+
+#=================================
+#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
+http://103.179.25.147:8181/FiFaaaaaah/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png" , Somoy TV
+http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
+#EXTINF:-1 tvg-name="Football World Cup 2026 link hindi" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Football World Cup 2026",Football World Cup
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
+#EXTINF:-1  tvg-logo="https://go-live.info/wp-content/uploads/2024/09/logowhitenew.webp" ,GO Live
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png" ,Unite8 Sports 2 HD
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
+
+#====== Toffee World Cup ============
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 1
+http://sm-monirul.top/tof/live/gervsivo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 2
+http://sm-monirul.top/tof/live/ecuvscur/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 3
+http://sm-monirul.top/tof/live/tunvsjap/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 4
+https://sm-monirul.top/tof/live/toffee4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 5
+https://sm-monirul.top/tof/live/toffee5/index.m3u8
+
+#====== Bioscope World Cup ============
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png" ,Bioscope 
+#https://sm-monirul.top/ultra_restream/bioscope/index.m3u8
+#https://bioscope.sm-monirulislam-exp.workers.dev/index.m3u8
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://fifa.keralive.workers.dev/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
+#======  World Cup ============
+#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" ,FOX ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
+
+#======  World Cup 1 ============
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Telemundo92.svg" ,TELEMUNDO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+https://edge2caster.pro/hls/eJmauBDCIf.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Sportdigital_Fu%C3%9Fball.svg" ,FUSSBALL TV 2 4K
+https://test.movielinkbd.com/storage/relay/test/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/M6_1987_logo.svg" ,M6 Direct TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png" ,Tipik Direct
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg" ,Caze TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg" ,Caze TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg" ,Caze TV FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
+https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" ,RTB_ANEKA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg" ,Caze TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png" , DSPORTS+ FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
+http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" ,SPORT 1 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+#EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png" ,SPORT 2 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",SportTV 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png",SportTV 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/BeIN_Sports_3_2017_Square.png",BEIN SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" ,FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8#EXTINF:-1 tvg-name="CRIC || TEN SPORTS ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET ",CRIC || TEN SPORTS ⁴ᵏ
 http://khanmalik.io:8080/live/Khemprakash/skyplay2421/140292.ts
 #EXTINF:-1 tvg-name="CRIC || T SPORTS ᴴᴰ" tvg-id="DD.Sports.in" tvg-logo="https://i.ibb.co/34FSKYK/images.png" group-title="CRICKET ",CRIC || T SPORTS ᴴᴰ
 http://khanmalik.io:8080/live/Khemprakash/skyplay2421/140156.ts
